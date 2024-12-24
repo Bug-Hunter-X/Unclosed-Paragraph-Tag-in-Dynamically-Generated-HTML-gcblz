@@ -1,0 +1,2 @@
+# Unclosed Paragraph Tag in Dynamically Generated HTML
+This repository demonstrates a subtle bug in HTML that can occur when dynamically generating content using innerHTML.  The bug involves an unclosed paragraph tag.  The solution shows how to properly handle dynamic content generation to prevent this issue.
